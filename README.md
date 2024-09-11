@@ -1,5 +1,5 @@
-![MasterHead](DataOps_Blog.png)
 <h1 align="center">Hi 👋, I'm Abdirahman!</h1>
+![MasterHead](devopsvsdeveloper--1-.png)
 <h3 align="center">Experienced Data Engineer Transitioning to DevOps Specialist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdirahman-i&label=Profile%20views&color=0e75b6&style=flat" alt="abdirahman-i" /> </p>
