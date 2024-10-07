@@ -1,4 +1,4 @@
-![MasterHead](new pic 1.png)
+![MasterHead](newpic1.png)
 <h1 align="center">Hi 👋, I'm Abdirahman!</h1>
 
 <h3 align="center">Experienced Data Engineer Transitioning to DevOps Specialist</h3>
