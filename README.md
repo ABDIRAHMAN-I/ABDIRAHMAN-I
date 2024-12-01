@@ -25,17 +25,26 @@
 <h3>Programming Languages:</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=python" alt="Programming Languages" style="display: inline-block; vertical-align: middle;"/>
+  
+
+
 </p>
 
 <h3>AI/ML:</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" style="display: inline-block; vertical-align: middle;"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40" style="display: inline-block; vertical-align: middle;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
 </p>
 
 <h3>Data Visualisation:</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=grafana" alt="Data Visualisation" style="display: inline-block; vertical-align: middle;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40" style="display: inline-block; vertical-align: middle;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="60" height="40" style="display: inline-block; vertical-align: middle;"/>
+  
+
+
+
 </p>
 
 <h3>DevOps:</h3>
