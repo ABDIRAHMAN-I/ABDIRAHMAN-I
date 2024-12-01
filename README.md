@@ -9,6 +9,7 @@
 <h3 align="center">Experienced Data Engineer Transitioning to DevOps Specialist</h3>
 
 
+
 <div align="center">
   <p>𝗥𝗲𝗮𝗰𝗵 𝗼𝘂𝘁 𝗮𝗻𝗱 𝗹𝗲𝘁'𝘀 𝗰𝗼𝗻𝗻𝗲𝗰𝘁!</p>
   
@@ -19,6 +20,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-EDE4DB?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
+
 
   
   <h2>⚒️ Technology Stack ⚒️</h2>
@@ -43,8 +45,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40" style="display: inline-block; vertical-align: middle;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="60" height="40" style="display: inline-block; vertical-align: middle;"/>
   
-
-
 
 </p>
 
