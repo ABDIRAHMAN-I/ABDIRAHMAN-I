@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Mo-ASayed.visitor-badge&left_color=blue&right_color=red" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ABDIRAHMAN-I.visitor-badge&left_color=blue&right_color=red" />
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -14,7 +14,7 @@
   <a href="abdirahman.i@hotmail.com">
     <img src="https://img.shields.io/badge/Gmail-EDE4DB?style=for-the-badge&logo=gmail&logoColor=red"/>
   </a>
-  <a href="https://linkedin.com/in/mohammed-sayed-16112a179" target="blank">
+  <a href="https://www.linkedin.com/in/abdirahman-ismail/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-EDE4DB?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
