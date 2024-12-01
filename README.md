@@ -12,14 +12,15 @@
   <p>𝗥𝗲𝗮𝗰𝗵 𝗼𝘂𝘁 𝗮𝗻𝗱 𝗹𝗲𝘁'𝘀 𝗰𝗼𝗻𝗻𝗲𝗰𝘁!</p>
   
   <a href="abdirahman.i@hotmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EDE4DB?style=for-the-badge&logo=gmail&logoColor=red"/>
+    <img src="https://img.shields.io/badge/Hotmail-EDE4DB?style=for-the-badge&logo=gmail&logoColor=red"/>
   </a>
   <a href="https://www.linkedin.com/in/abdirahman-ismail/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-EDE4DB?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+</div>
 
-
-<h2>⚒️ Technology Stack ⚒️</h2>
+  
+  <h2>⚒️ Technology Stack ⚒️</h2>
 
 <h3>Programming Languages:</h3>
 <p>
@@ -56,13 +57,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=git,github" alt="Version Control" style="display: inline-block; vertical-align: middle;"/>
 </p>
-
-<h3>📊 GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdirahman-i&show_icons=true&locale=en&layout=compact" alt="abdirahman-i" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=abdirahman-i&show_icons=true&locale=en" alt="abdirahman-i" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdirahman-i&" alt="abdirahman-i" /></p>
 
 
 
