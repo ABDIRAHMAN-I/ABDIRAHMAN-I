@@ -1,27 +1,95 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Mo-ASayed.visitor-badge&left_color=blue&right_color=red" />
 
-<h1 align="center">Hi 👋, I'm Abdirahman!</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Montserrat&size=30&duration=2500&pause=2000&color=8A8580FF&vCenter=true&random=false&width=435&lines=Hi%2C+welcome+to+my+GitHub!👋;I'm+Abdirahman+Ismail!" />
+  </a>
+</h1>
 
-<h3 align="center">Experienced Data Engineer Transitioning to DevOps Specialist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdirahman-i&label=Profile%20views&color=0e75b6&style=flat" alt="abdirahman-i" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<div align="center">
+  <p>𝗥𝗲𝗮𝗰𝗵 𝗼𝘂𝘁 𝗮𝗻𝗱 𝗹𝗲𝘁'𝘀 𝗰𝗼𝗻𝗻𝗲𝗰𝘁!</p>
+  
+  <a href="abdirahman.i@hotmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EDE4DB?style=for-the-badge&logo=gmail&logoColor=red"/>
+  </a>
+  <a href="https://linkedin.com/in/mohammed-sayed-16112a179" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-EDE4DB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-- 🔭 I’m currently working on **DevOps**
 
-- 🌱 I’m currently learning **Linux, AWS, Git etc**
+<h2>⚒️ Technology Stack ⚒️</h2>
 
-- 👨‍💻 All of my projects are available at [https://github.com/ABDIRAHMAN-I](https://github.com/ABDIRAHMAN-I)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abdirahman-ismail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdirahman-ismail" height="30" width="40" /></a>
+<h3>Programming Languages:</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=python" alt="Programming Languages" style="display: inline-block; vertical-align: middle;"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<h3>AI/ML:</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" style="display: inline-block; vertical-align: middle;"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40" style="display: inline-block; vertical-align: middle;"/>
+</p>
+
+<h3>Data Visualisation:</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=grafana" alt="Data Visualisation" style="display: inline-block; vertical-align: middle;"/>
+</p>
+
+<h3>DevOps:</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,kubernetes,linux,terraform,githubactions,prometheus" alt="DevOps" style="display: inline-block; vertical-align: middle;"/>
+</p>
+
+<h3>Databases:</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" alt="Databases" style="display: inline-block; vertical-align: middle;"/>
+</p>
+
+<h3>Web Servers:</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=nginx" alt="Web Servers" style="display: inline-block; vertical-align: middle;"/>
+</p>
+
+<h3>Version Control:</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github" alt="Version Control" style="display: inline-block; vertical-align: middle;"/>
+</p>
+
+<h3>📊 GitHub Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdirahman-i&show_icons=true&locale=en&layout=compact" alt="abdirahman-i" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdirahman-i&show_icons=true&locale=en" alt="abdirahman-i" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=abdirahman-i&show_icons=true&locale=en" alt="abdirahman-i" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdirahman-i&" alt="abdirahman-i" /></p>
+
+
+
+---
+
+<h2>🏆 GitHub Trophies</h2>
+<div>
+  <img src="https://github-profile-trophy.vercel.app/?username=ABDIRAHMAN-I&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=8" alt="GitHub Trophies"/>
+</div>
+
+---
+
+
+
+<h2>📊 GitHub Stats</h2>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=ABDIRAHMAN-I&theme=beige&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABDIRAHMAN-I&theme=beige&hide_border=false" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABDIRAHMAN-I&theme=beige&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+</div>
+
+---
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Montserrat&size=30&duration=2500&pause=2000&color=8A8580FF&vCenter=true&random=false&width=435&lines=Thanks+for+stopping+by!%F0%9F%91%8B;Feel+free+to+reach+out!+%F0%9F%93%B2" />
+  </a>
+</div>
